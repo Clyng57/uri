@@ -1,0 +1,29 @@
+{
+  "name": "@neumatter/uri",
+  "version": "1.0.0",
+  "description": "URI class that can be used on relative URIs.",
+  "type": "module",
+  "author": "Cal Young",
+  "repository": {
+    "url": "https://github.com/Clyng57/uri"
+  },
+  "keywords": [
+    "uri",
+    "url",
+    "uri-reference",
+    "parser",
+    "browser",
+    "nodejs",
+    "javascript",
+    "module",
+    "node",
+    "es6"
+  ],
+  "main": "./index.js",
+  "types": "./types/index.d.ts",
+  "standard": {
+    "ignore": [
+      "/types"
+    ]
+  }
+}
